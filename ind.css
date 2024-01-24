@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    margin: 5px;
+    font-size: 14px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.quotation {
+    background-color: #9a9dd2;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 500px;
+    display: inline-block;
+    min-height: 226px;
+    width: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    padding: 75px 35px 18px;
+
+  
+}
+h5 {
+    font-family:Roboto,sans-serif;
+color:blueviolet;
+font-weight: bold;
+}

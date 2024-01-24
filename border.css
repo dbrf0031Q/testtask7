@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(170, 246, 212);
+}
+
+.wrapper {
+  width: 800px; 
+  margin: 0 auto;
+  font-size: 0;
+  text-align: center;
+}
+
+.card5{
+  display: inline-block;
+  width: 200px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background: #C4C4C4;
+  font-size: 14px;
+  padding: 15px; 
+}
+.card6 {
+  display: inline-block;
+  width: 200px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background: #C4C4C4;
+  font-size: 14px;
+  padding: 15px; 
+}
+img {
+  display: block;
+  margin: 0 auto 10px; 
+  height: 135px;
+  width: 135px;
+}
